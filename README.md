@@ -1,9 +1,9 @@
-# 🧮 NFT Component
+# 🪙 NFT Component
 Esta es una solución al [desafío NFT preview card component en Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Los desafíos de Frontend Mentor ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
 
 ## 🔎 Descripción general
-He creado este simple componente con React de forma que sea reutilizable, es decir, introduciendo los parámetros necesarios puedes crear el mismo componente con el NFT que desees.
+He creado este simple componente con React de forma que sea reutilizable, es decir, introduciendo los parámetros necesarios puedes crear el mismo componente con el NFT que desees. Esto es súper útil para evitar la repetición de código innecesario además de ser mucho más legible.
 
 Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440px)
 
