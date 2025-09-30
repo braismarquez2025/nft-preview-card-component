@@ -8,7 +8,7 @@ He creado este simple componente con React de forma que sea reutilizable, es dec
 Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440px)
 
 ### 📷 Captura de pantalla
-![](./src/assets/images/nft-preview-card-component-09-30-2025_05_43_PM.png)
+![](./src/assets/images/nft-preview-card-component-09-30-2025_05_57_PM.png)
 
 
 ### 🔗 Links
