@@ -8,12 +8,12 @@ He creado este simple componente con React de forma que sea reutilizable, es dec
 Diseño responsive para resolución mobile(375px), tablet(768px) y desktop(1440px)
 
 ### 📷 Captura de pantalla
-![](./src/assets/images/Vite-React-09-16-2025_05_16_PM.png)
+![](./src/assets/images/nft-preview-card-component-09-30-2025_05_43_PM.png)
 
 
 ### 🔗 Links
-- [URL de la solucion](https://github.com/braismarquez2025/BMI-Calculator)
-- [URL del sitio en vivo]()
+- [URL de la solucion](https://www.frontendmentor.io/solutions/solution-nft-component--60d7_OE_a)
+- [URL del sitio en vivo](https://braismarquez2025.github.io/nft-preview-card-component/)
 
 
 ## 🚀 Mi proceso
