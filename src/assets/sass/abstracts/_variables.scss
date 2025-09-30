@@ -1,0 +1,42 @@
+$bp-tablet: 768px;
+$bp-tablet-horizontal: 1024px;
+$bp-desktop: 1220px;
+$bp-desktop-xl: 1440px;
+
+//Colors
+$blue-950: #0D192C;
+$blue-900: #15263F;
+$blue-800: #2E405A;
+$blue-500: #8BACD9;
+$cyan-400: rgb(0, 255, 248);
+
+//Fonts
+$font-primary: "Outfit", sans-serif;
+
+.text-preset-1 {
+    font-size: 22px;
+    line-height: 125%;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+
+.text-preset-2 {
+    font-size: 18px;
+    line-height: 145%;
+    letter-spacing: 0px;
+    font-weight: 300;
+}
+
+.text-preset-3-semibold {
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+
+.text-preset-3-regular {
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0px;
+    font-weight: 400;
+}

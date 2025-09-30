@@ -1,0 +1,97 @@
+@use '../abstracts' as *;
+
+.container {
+    background-color: $blue-900;
+    padding: 24px;
+    border-radius: 15px;
+    width: 302px;
+
+    &-relative {
+        position: relative;
+    }
+
+    &_img-principal {
+        width: 302px;
+        height: 302px;
+        border-radius: 8px;
+        margin-bottom: 24px;
+        cursor: pointer;
+    }
+
+    &_content {
+        &-name {
+            color: white;
+        }
+
+        &-cambioColor {
+            color: $cyan-400;
+        }
+
+        &-text {
+            color: $blue-500;
+            margin-bottom: 24px;
+            margin-top: 16px;
+        }
+    }
+
+    &_info {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 24px;
+
+        &-article {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+
+            &-number {
+                color: $cyan-400;
+            }
+
+            &-time {
+                color: $blue-500;
+            }
+        }
+    }
+
+    &_user {
+        margin-top: 24px;
+        display: flex;
+        gap: 16px;
+        align-items: center;
+
+        &-img {
+            width: 33px;
+            height: 33px;
+            border: 1px solid white;
+            border-radius: 50%;
+        }
+
+        &-text {
+            color: $blue-500;
+            display: flex;
+            gap: 8px;
+
+            &-span {
+                color: white;
+            }
+
+            &-cambioColor {
+                color: $cyan-400;
+            }
+        }
+    }
+}
+
+
+.capaCyan {
+    background-color: rgb(0, 255, 248, 0.5);
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
