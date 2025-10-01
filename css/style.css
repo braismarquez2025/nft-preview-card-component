@@ -105,6 +105,11 @@
   align-items: center;
 }
 
+hr {
+  color: #2E405A;
+  opacity: 15%;
+}
+
 html * {
   margin: 0;
 }
